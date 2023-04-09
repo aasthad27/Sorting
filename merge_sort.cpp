@@ -45,8 +45,8 @@ void merge(vector<int>&v,int l,int h,int mid)
         indexmerge++;
         indextwo++;
      }
-   delete[] arrayone;
-   delete[] arraytwo;
+//    delete[] arrayone;
+//    delete[] arraytwo;
 }
 void mergesort(vector<int>&v,int l,int h)
 {
